@@ -1,0 +1,16 @@
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/SpotifyApplication.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/controller/TrackController.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/entity/Track.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/exception/AccessDeniedException.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/exception/AlreadyExistsException.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/exception/AuthenticationEntryException.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/exception/ControllerExceptionHandler.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/exception/ResourceNotFoundException.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/reponse/DataResponse.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/reponse/ErrorResponse.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/repository/TrackRepository.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/security/SecurityConfig.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/service/ISpotifyService.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/service/ITrackService.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/service/SpotifyService.java
+/Users/jonathangonzalez/Documents/Projects/java/spotify/src/main/java/com/umg/spotify/service/TrackService.java
