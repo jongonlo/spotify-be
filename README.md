@@ -33,7 +33,8 @@ Open the psql command console and execute the following commands:
 ```bash
   1 - psql -U <usuario>
   2 - CREATE DATABASE spotify;
-  3 - \i /ruta/db.sql
+  3 - \c spotify
+  4 - \i /ruta/db.sql
 ```
 
 at this point the database should be created.
