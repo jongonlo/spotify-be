@@ -52,6 +52,16 @@ If you are using eclipse, netbeans or intelliJ, I recommend you to use the sprin
 
 ## API Reference
 
+you can adjust the values of the application.properties with your own values like: 
+
+```
+spring.datasource.url=jdbc:postgresql://localhost:5432/spotify
+spring.datasource.username=postgres
+spring.datasource.password=1234
+spotify.client.id=6dab2e93bfad4d239b4efd6e14161bb1
+spotify.client.secret=7a02371fc5d3413798810ea45bda954a
+```
+
 Once the project has been executed without errors, you can access http://localhost:8080/swagger-ui/index.html, the requested credentials are:
 
 username: spotify
