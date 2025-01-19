@@ -63,7 +63,7 @@ public class TrackService implements ITrackService {
     }
 
     private String artistNames(ArtistSimplified[] artists) {
-        String names = Arrays.asList(artists).stream().map(artist -> artist.getName()) // Extraer el nombre
+        String names = Arrays.asList(artists).stream().map(artist -> artist.getName())
                 .collect(Collectors.joining(", "));
         return names;
     }
