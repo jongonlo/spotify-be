@@ -70,7 +70,7 @@ POST /codechallenge/createTrack
 #### Get item
 
 ```http
-  GET /codechallenge/getTrackMetadata
+GET /codechallenge/getTrackMetadata
 ```
 
 | Parameter | Type     | Description                       |
